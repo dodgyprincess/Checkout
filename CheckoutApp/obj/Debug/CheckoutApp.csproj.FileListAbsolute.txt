@@ -1,0 +1,5 @@
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.exe.config
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.exe
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutApp\bin\Debug\CheckoutApp.pdb
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutApp\obj\Debug\CheckoutApp.exe
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutApp\obj\Debug\CheckoutApp.pdb

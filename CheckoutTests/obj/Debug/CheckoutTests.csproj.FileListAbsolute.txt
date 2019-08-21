@@ -1,0 +1,15 @@
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\CheckoutTests.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\CheckoutTests.pdb
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\CheckoutApp.exe
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\CheckoutApp.pdb
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\CheckoutApp.exe.config
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\obj\Debug\CheckoutTests.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\obj\Debug\CheckoutTests.dll
+c:\users\nate\documents\visual studio 2017\Projects\CheckoutApp\CheckoutTests\obj\Debug\CheckoutTests.pdb
